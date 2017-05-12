@@ -2,7 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a90dfd82-e98c-4ba6-801c-5f13357784b5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code/JScode.js" afterPath="$PROJECT_DIR$/Code/JScode.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code/board.js" afterPath="$PROJECT_DIR$/Code/board.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code/game.js" afterPath="$PROJECT_DIR$/Code/game.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code/ghostsBoard.js" afterPath="$PROJECT_DIR$/Code/ghostsBoard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code/jquery-3.2.0.min.js" afterPath="$PROJECT_DIR$/Code/jquery-3.2.0.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code/jquery.validate.min.js" afterPath="$PROJECT_DIR$/Code/jquery.validate.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code/main.js" afterPath="$PROJECT_DIR$/Code/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code/validation.js" afterPath="$PROJECT_DIR$/Code/validation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Adar_S.png" afterPath="$PROJECT_DIR$/Images/Adar_S.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Broken_Heart.png" afterPath="$PROJECT_DIR$/Images/Broken_Heart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Pac-ManLogo.png" afterPath="$PROJECT_DIR$/Images/Pac-ManLogo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bonus.png" afterPath="$PROJECT_DIR$/Images/bonus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/directions.png" afterPath="$PROJECT_DIR$/Images/directions.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ghost.png" afterPath="$PROJECT_DIR$/Images/ghost.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/heart.png" afterPath="$PROJECT_DIR$/Images/heart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/liron.jpg" afterPath="$PROJECT_DIR$/Images/liron.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pacman.ico" afterPath="$PROJECT_DIR$/Images/pacman.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/poison.png" afterPath="$PROJECT_DIR$/Images/poison.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/poop.png" afterPath="$PROJECT_DIR$/Images/poop.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/speed.png" afterPath="$PROJECT_DIR$/Images/speed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sounds/music.mp3" afterPath="$PROJECT_DIR$/Sounds/music.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/animated.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/core.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/icons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/footer-basic-centered.css" afterPath="$PROJECT_DIR$/Style/footer-basic-centered.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,23 +62,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/game.js">
+      <file leaf-file-name="game.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code/game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="790" column="31" lean-forward="false" selection-start-line="790" selection-start-column="30" selection-end-line="790" selection-end-column="31" />
+            <state relative-caret-position="195">
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
               <folding>
-                <marker date="1494622265000" expanded="true" signature="17665:17706" ph="..." />
-                <marker date="1494622265000" expanded="true" signature="17804:17845" ph="..." />
+                <marker date="1494624213000" expanded="true" signature="17665:17706" ph="..." />
+                <marker date="1494624213000" expanded="true" signature="17804:17845" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="3675">
               <caret line="245" column="39" lean-forward="false" selection-start-line="245" selection-start-column="39" selection-end-line="245" selection-end-column="39" />
               <folding />
             </state>
@@ -42,7 +86,7 @@
         </entry>
       </file>
       <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/css/font-awesome.css">
+        <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/css/font-awesome.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
               <caret line="996" column="4" lean-forward="false" selection-start-line="996" selection-start-column="4" selection-end-line="996" selection-end-column="4" />
@@ -52,7 +96,7 @@
         </entry>
       </file>
       <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/css/font-awesome.min.css">
+        <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
               <caret line="3" column="13303" lean-forward="false" selection-start-line="3" selection-start-column="13303" selection-end-line="3" selection-end-column="13303" />
@@ -62,7 +106,7 @@
         </entry>
       </file>
       <file leaf-file-name="fontawesome-webfont.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
+        <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
               <caret line="955" column="23" lean-forward="false" selection-start-line="955" selection-start-column="23" selection-end-line="955" selection-end-column="23" />
@@ -72,7 +116,7 @@
         </entry>
       </file>
       <file leaf-file-name="icons.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/less/icons.less">
+        <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/less/icons.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
               <caret line="297" column="18" lean-forward="false" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
@@ -82,7 +126,7 @@
         </entry>
       </file>
       <file leaf-file-name="variables.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/less/variables.less">
+        <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/less/variables.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
               <caret line="433" column="8" lean-forward="false" selection-start-line="433" selection-start-column="8" selection-end-line="433" selection-end-column="8" />
@@ -92,7 +136,7 @@
         </entry>
       </file>
       <file leaf-file-name="_icons.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_icons.scss">
+        <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_icons.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
               <caret line="297" column="19" lean-forward="false" selection-start-line="297" selection-start-column="19" selection-end-line="297" selection-end-column="19" />
@@ -102,7 +146,7 @@
         </entry>
       </file>
       <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_variables.scss">
+        <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
               <caret line="433" column="8" lean-forward="false" selection-start-line="433" selection-start-column="8" selection-end-line="433" selection-end-column="8" />
@@ -112,7 +156,7 @@
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/style.css">
+        <entry file="file://$PROJECT_DIR$/Style/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
               <caret line="211" column="27" lean-forward="false" selection-start-line="211" selection-start-column="27" selection-end-line="211" selection-end-column="27" />
@@ -125,7 +169,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>speedMo</find>
       <find>speedM</find>
       <find>fastMod</find>
       <find>fast</find>
@@ -155,6 +198,7 @@
       <find>l</find>
       <find>location</find>
       <find>getpossibleMoves</find>
+      <find>lost</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -198,6 +242,7 @@
         <option value="$PROJECT_DIR$/code/game.js" />
         <option value="$PROJECT_DIR$/index.htm" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Code/game.js" />
       </list>
     </option>
   </component>
@@ -250,7 +295,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="Images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -264,7 +309,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
+              <option name="myItemId" value="Code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,12 +434,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494609465897</updated>
       <workItem from="1494609467296" duration="284000" />
-      <workItem from="1494609917076" duration="10409000" />
+      <workItem from="1494609917076" duration="10523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10693000" />
+    <option name="totallyTimeSpent" value="10807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -428,7 +473,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/code/game.js</url>
+          <url>file://$PROJECT_DIR$/Code/game.js</url>
           <line>124</line>
           <properties />
         </line-breakpoint>
@@ -438,13 +483,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/code/game.js">
+    <entry file="file://$PROJECT_DIR$/Code/game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1494622265000" expanded="true" signature="17665:17706" ph="..." />
-            <marker date="1494622265000" expanded="true" signature="17804:17845" ph="..." />
+            <marker date="1494624213000" expanded="true" signature="17665:17706" ph="..." />
+            <marker date="1494624213000" expanded="true" signature="17804:17845" ph="..." />
           </folding>
         </state>
       </provider>
@@ -457,7 +502,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/JScode.js">
+    <entry file="file://$PROJECT_DIR$/Code/JScode.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="104" column="2" lean-forward="false" selection-start-line="104" selection-start-column="2" selection-end-line="104" selection-end-column="2" />
@@ -465,7 +510,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/footer-basic-centered.css">
+    <entry file="file://$PROJECT_DIR$/Style/footer-basic-centered.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
@@ -473,7 +518,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_stacked.scss">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_stacked.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
@@ -481,7 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_mixins.scss">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
@@ -489,7 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_list.scss">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_list.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
@@ -497,7 +542,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/less/stacked.less">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/less/stacked.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
@@ -505,7 +550,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/less/mixins.less">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/less/mixins.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
@@ -513,7 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/less/list.less">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/less/list.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
@@ -521,7 +566,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/jquery.validate.min.js">
+    <entry file="file://$PROJECT_DIR$/Code/jquery.validate.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="14" column="3349" lean-forward="false" selection-start-line="14" selection-start-column="3349" selection-end-line="14" selection-end-column="3349" />
@@ -529,7 +574,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/jquery-3.2.0.min.js">
+    <entry file="file://$PROJECT_DIR$/Code/jquery-3.2.0.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="1" column="17422" lean-forward="false" selection-start-line="1" selection-start-column="17422" selection-end-line="1" selection-end-column="17422" />
@@ -537,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/css/font-awesome.css">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="996" column="4" lean-forward="false" selection-start-line="996" selection-start-column="4" selection-end-line="996" selection-end-column="4" />
@@ -545,7 +590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/css/font-awesome.min.css">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="3" column="13303" lean-forward="false" selection-start-line="3" selection-start-column="13303" selection-end-line="3" selection-end-column="13303" />
@@ -553,7 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="955" column="23" lean-forward="false" selection-start-line="955" selection-start-column="23" selection-end-line="955" selection-end-column="23" />
@@ -561,7 +606,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/less/icons.less">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/less/icons.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="297" column="18" lean-forward="false" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
@@ -569,7 +614,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/less/variables.less">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="433" column="8" lean-forward="false" selection-start-line="433" selection-start-column="8" selection-end-line="433" selection-end-column="8" />
@@ -577,7 +622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_icons.scss">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_icons.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="297" column="19" lean-forward="false" selection-start-line="297" selection-start-column="19" selection-end-line="297" selection-end-column="19" />
@@ -585,7 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="433" column="8" lean-forward="false" selection-start-line="433" selection-start-column="8" selection-end-line="433" selection-end-column="8" />
@@ -593,7 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/style.css">
+    <entry file="file://$PROJECT_DIR$/Style/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="211" column="27" lean-forward="false" selection-start-line="211" selection-start-column="27" selection-end-line="211" selection-end-column="27" />
@@ -601,22 +646,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/game.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="790" column="31" lean-forward="false" selection-start-line="790" selection-start-column="30" selection-end-line="790" selection-end-column="31" />
-          <folding>
-            <marker date="1494622265000" expanded="true" signature="17665:17706" ph="..." />
-            <marker date="1494622265000" expanded="true" signature="17804:17845" ph="..." />
-          </folding>
+        <state relative-caret-position="3675">
+          <caret line="245" column="39" lean-forward="false" selection-start-line="245" selection-start-column="39" selection-end-line="245" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Code/game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="245" column="39" lean-forward="false" selection-start-line="245" selection-start-column="39" selection-end-line="245" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <marker date="1494624213000" expanded="true" signature="17665:17706" ph="..." />
+            <marker date="1494624213000" expanded="true" signature="17804:17845" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

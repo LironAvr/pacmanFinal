@@ -2,16 +2,16 @@
  * Created by lirona on 06/05/2017.
  */
 
-var sound = "sounds/music.mp3";
+var sound = "Sounds/music.mp3";
 var gameMusic;
 
 var ghosts = [];
 var corners = [{x : 30, y : 30} , { x : 410, y : 30 }, { x : 410, y : 390 }, { x: 30 , y : 390}];
-var ghostPicture = "images/ghost.png";
-var poisonPicture = "images/poison.png";
-var confusePicture = "images/poop.png";
-var bonusPicture = "images/bonus.png";
-var speedPicture = "images/speed.png";
+var ghostPicture = "Images/ghost.png";
+var poisonPicture = "Images/poison.png";
+var confusePicture = "Images/poop.png";
+var bonusPicture = "Images/bonus.png";
+var speedPicture = "Images/speed.png";
 
 var _cellSize = 20;
 var _baseSpeed = 5;
