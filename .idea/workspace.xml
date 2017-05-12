@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a90dfd82-e98c-4ba6-801c-5f13357784b5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Archive.zip" afterPath="$PROJECT_DIR$/Archive.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/game.js" afterPath="$PROJECT_DIR$/Code/game.js" />
     </list>
@@ -22,11 +21,11 @@
       <file leaf-file-name="game.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="762" column="16" lean-forward="false" selection-start-line="762" selection-start-column="16" selection-end-line="762" selection-end-column="16" />
+            <state relative-caret-position="305">
+              <caret line="675" column="31" lean-forward="true" selection-start-line="675" selection-start-column="31" selection-end-line="675" selection-end-column="31" />
               <folding>
-                <marker date="1494625177000" expanded="true" signature="17665:17706" ph="..." />
-                <marker date="1494625177000" expanded="true" signature="17804:17845" ph="..." />
+                <marker date="1494625315000" expanded="true" signature="17665:17706" ph="..." />
+                <marker date="1494625315000" expanded="true" signature="17804:17845" ph="..." />
               </folding>
             </state>
           </provider>
@@ -391,12 +390,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494609465897</updated>
       <workItem from="1494609467296" duration="284000" />
-      <workItem from="1494609917076" duration="11151000" />
+      <workItem from="1494609917076" duration="11300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11435000" />
+    <option name="totallyTimeSpent" value="11584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -438,8 +437,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1494625177000" expanded="true" signature="17665:17706" ph="..." />
-            <marker date="1494625177000" expanded="true" signature="17804:17845" ph="..." />
+            <marker date="1494625315000" expanded="true" signature="17665:17706" ph="..." />
+            <marker date="1494625315000" expanded="true" signature="17804:17845" ph="..." />
           </folding>
         </state>
       </provider>
@@ -606,11 +605,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="762" column="16" lean-forward="false" selection-start-line="762" selection-start-column="16" selection-end-line="762" selection-end-column="16" />
+        <state relative-caret-position="305">
+          <caret line="675" column="31" lean-forward="true" selection-start-line="675" selection-start-column="31" selection-end-line="675" selection-end-column="31" />
           <folding>
-            <marker date="1494625177000" expanded="true" signature="17665:17706" ph="..." />
-            <marker date="1494625177000" expanded="true" signature="17804:17845" ph="..." />
+            <marker date="1494625315000" expanded="true" signature="17665:17706" ph="..." />
+            <marker date="1494625315000" expanded="true" signature="17804:17845" ph="..." />
           </folding>
         </state>
       </provider>

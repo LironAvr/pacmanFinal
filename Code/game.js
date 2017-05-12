@@ -661,9 +661,9 @@ function drawLives() {
     $("#lives").html("");
     for (var i = 0; i < 3; i++) {
         if(i < lives)
-            $("#lives").prepend('<img src="./images/heart.png" style="width:10px; height:10px; margin-left:2px;" />');
+            $("#lives").prepend('<img src="./Images/heart.png" style="width:10px; height:10px; margin-left:2px;" />');
         else
-            $("#lives").prepend('<img src="./images/Broken_Heart.png" style="width:10px; height:10px; margin-left:2px;" />');
+            $("#lives").prepend('<img src="./Images/Broken_Heart.png" style="width:10px; height:10px; margin-left:2px;" />');
     }
 }
 
