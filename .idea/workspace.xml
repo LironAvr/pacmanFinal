@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a90dfd82-e98c-4ba6-801c-5f13357784b5" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/code/JScode.js" afterPath="$PROJECT_DIR$/Code/JScode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/code/board.js" afterPath="$PROJECT_DIR$/Code/board.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/code/game.js" afterPath="$PROJECT_DIR$/Code/game.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/code/ghostsBoard.js" afterPath="$PROJECT_DIR$/Code/ghostsBoard.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/code/jquery-3.2.0.min.js" afterPath="$PROJECT_DIR$/Code/jquery-3.2.0.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/code/jquery.validate.min.js" afterPath="$PROJECT_DIR$/Code/jquery.validate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/code/main.js" afterPath="$PROJECT_DIR$/Code/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/code/validation.js" afterPath="$PROJECT_DIR$/Code/validation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Adar_S.png" afterPath="$PROJECT_DIR$/Images/Adar_S.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Broken_Heart.png" afterPath="$PROJECT_DIR$/Images/Broken_Heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Pac-ManLogo.png" afterPath="$PROJECT_DIR$/Images/Pac-ManLogo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bonus.png" afterPath="$PROJECT_DIR$/Images/bonus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/directions.png" afterPath="$PROJECT_DIR$/Images/directions.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ghost.png" afterPath="$PROJECT_DIR$/Images/ghost.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/heart.png" afterPath="$PROJECT_DIR$/Images/heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/liron.jpg" afterPath="$PROJECT_DIR$/Images/liron.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pacman.ico" afterPath="$PROJECT_DIR$/Images/pacman.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/poison.png" afterPath="$PROJECT_DIR$/Images/poison.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/poop.png" afterPath="$PROJECT_DIR$/Images/poop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/speed.png" afterPath="$PROJECT_DIR$/Images/speed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sounds/music.mp3" afterPath="$PROJECT_DIR$/Sounds/music.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/animated.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/core.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/icons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/list.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/Style/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/footer-basic-centered.css" afterPath="$PROJECT_DIR$/Style/footer-basic-centered.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Archive.zip" afterPath="$PROJECT_DIR$/Archive.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -434,15 +390,15 @@
       <option name="presentableId" value="Default" />
       <updated>1494609465897</updated>
       <workItem from="1494609467296" duration="284000" />
-      <workItem from="1494609917076" duration="10523000" />
+      <workItem from="1494609917076" duration="10665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10807000" />
+    <option name="totallyTimeSpent" value="10949000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -452,7 +408,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
