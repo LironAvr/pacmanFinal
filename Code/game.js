@@ -760,6 +760,7 @@ function playAgain() {
     startGame = true;
     _bonuses = [];
     _coins = [];
+    ghosts = [];
 }
 
 function printPicture(figure) {
